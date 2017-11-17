@@ -1,0 +1,9 @@
+cat	d1.txt	2
+cat	d1.txt	3
+cat	d2.txt	5
+cat	d3.txt	4
+cat	d4.txt	5
+dog	d6.txt	3
+dog	d7.txt	5
+pig	d1.txt	1
+donkey	d2.txt	3
